@@ -1,0 +1,22 @@
+{
+  "name": "Yash Londhe",
+  "bio": "Mobile App Developer, 2nd year engineerng student, currently exploring OpenSource",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/yashltwts",
+      "icon": "FaTwitter"
+    }
+    {
+      "name": "Follow me on LinkedIn",
+      "url": "https://www.linkedin.com/in/yashlondhe-/",
+      "icon": "FaLinkedIn"
+    }
+    {
+      "name": "You can mail me here",
+      "url": "yashlondhe9151@gmail.com",
+      "icon": "FaEmail"
+    }
+    
+  ]
+}
